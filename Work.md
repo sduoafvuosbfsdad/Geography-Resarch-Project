@@ -9,13 +9,31 @@
 - Selecting the Site for Interviews
 
 ### Guiding Questions (5W1H)
-1. Who visits MBS? [1]
+1. Who visits MBS? [1] - Iconic design of Marina Bay Sands, Shopping, Scenery, Casino. 
+Usually more tourists than locals
+2. What activities do people do at MBS? - People shop luxury brands, enjoy scenery of Marina Bay, cityscape
+3. What are the main reasons why visitors visit MBS - How the media portrays it as a sense of place, 
+iconic structures in Singapore
+4. What are some impacts of tourism on MBS? - Brought a lot of GDP in the area for Tourism, Hospitality Services, 
+Overcrowding of tourists during holiday season
+
+### Constructing the Hypothesis
+Before constructing the Hypothesis, we have to generate a research question.
+We are interested in ______ sector, therefore we want to research more about ______.
+
+Research Question - `Find out xxxx yyyy`
+
+
+
+The independent variable is ______ and dependent variable is ______.
+
+Therefore, Hypothesis - `As xxx increases, yyy increases.`
 
 ## During fieldwork
 
 ### Contents:
-- Selecting the Site for Interniews
-- Safetiy Concerns
+- Selecting the Site for Interviews
+- Safety Concerns
 - Making Field Sketches and/or Taking Photographs
 - Conducting the Interviews
 
