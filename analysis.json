@@ -1,0 +1,94 @@
+{
+  "analysis": {
+    "total_responses": 29,
+    "questions": {
+      "What attracted you to Singapore": {
+        "categories": {
+          "Tourism/Sightseeing": 10,
+          "Business/Work": 5,
+          "Friends/Family": 4,
+          "Food/Culture": 4,
+          "Media/Entertainment": 3,
+          "Other/Unspecified": 3
+        }
+      },
+      "Purpose of visit": {
+        "categories": {
+          "Tourism/Leisure": 15,
+          "Business/Work": 6,
+          "Visiting Friends/Family": 4,
+          "Study/Events": 2,
+          "Other/Unspecified": 2
+        }
+      },
+      "Frequency of visits": {
+        "average": 1.7,
+        "distribution": {
+          "1 time": 18,
+          "2 times": 4,
+          "3 times": 2,
+          "4 times": 2,
+          "5 times": 3
+        }
+      },
+      "Main reason for visiting": {
+        "categories": {
+          "Scenery": 13,
+          "Shopping": 8,
+          "Dining": 9,
+          "Entertainment": 8,
+          "Special Events": 4,
+          "Culture/Architecture": 3
+        }
+      },
+      "Satisfaction with facilities (1-5)": {
+        "average": 4.5,
+        "distribution": {
+          "5": 21,
+          "4": 6,
+          "3": 2,
+          "2": 0,
+          "1": 0
+        }
+      },
+      "Crowd level ratings": {
+        "distribution": {
+          "Just Right": 20,
+          "Too Empty": 8,
+          "Too Crowded": 1
+        }
+      },
+      "Visitor vs Tourist": {
+        "Tourist": 23,
+        "Visitor": 6
+      },
+      "Yearly income level": {
+        "distribution": {
+          "0-20k": 4,
+          "20k-40k": 5,
+          "40k-60k": 8,
+          "60k-80k": 4,
+          "80k-100k": 4,
+          ">100k": 3,
+          "Unspecified/Other": 5
+        }
+      },
+      "What visitors enjoy most": {
+        "categories": {
+          "Scenery/Views": 12,
+          "Cleanliness": 8,
+          "Food/Dining": 7,
+          "Shopping/Entertainment": 6,
+          "Architecture/Design": 5,
+          "Atmosphere/Comfort": 4
+        }
+      }
+    },
+    "key_insights": {
+      "satisfaction": "High satisfaction (4.5/5), driven by cleanliness and modern facilities.",
+      "crowd_levels": "Most respondents (69%) felt crowds were 'Just Right'.",
+      "income_demographics": "40k-60k income bracket was most common (28%).",
+      "primary_attraction": "Scenery and views are the top reasons for visiting (45% of responses)."
+    }
+  }
+}
