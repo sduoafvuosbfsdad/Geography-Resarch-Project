@@ -41,25 +41,30 @@ Therefore, Hypothesis - `Visitors to the MBS Promenade are primarily drawn to th
 ### Crafting Primary Research Questions
 The collection of primary data consists of closed-ended and open-ended questionnaires.
 
-Close-Ended Questions:
-1. How often do you visit MBS Promenade?<br>
+Questions:
+1. What attracted you to Singapore?<br>
+    Open-Ended Question
+2. What is your purpose of visit?<br>
+    Open-Ended Question
+3. How often do you visit MBS Promenade?<br>
     Options: Biannually, Annually, Once per two years, Rarely
-2. What is your main reason for visiting?<br>
-    Options: Scenery, Shopping, Entertainment, Dining, Events
-3. How satisfied are you with the facilities at MBS Promenade?<br>
+4. What is your main reason for visiting?<br>
+    Options: Scenery, Shopping, Entertainment, Dining, Events (Multi-Select)
+5. How satisfied are you with the facilities at MBS Promenade?<br>
     Options: 1 (Dissatisfied) - 5 (Very Satisfied)
-4. How would you rate the crowd levels?<br>
+6. Why do you feel this way? (Non-Compulsory)<br>
+    Open-Ended Question
+7. How would you rate the crowd levels?<br>
     Options: Too Crowded, Just Right, Too Empty
-5. Are you a visitor or a tourist?<br>
+8. Are you a visitor or a tourist?<br>
     Options: Visitor, Tourist
-6. What is your yearly income level?
+9. What is your yearly income level?<br>
     Options: 0-20k, 20-40k, 40-60k, 60-80k
+10. What do you enjoy most at MBS Promenade?
+    Open-Ended Question
 
-Open-Ended Questions:
-1. What do you enjoy most at MBS Promenade?
-### Our Form
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7XI2OIk_zko6Y2iuSSt8vLTmPsI7n_fz5WHHUFUZdpoHPAg/viewform?embedded=true" width="640" height="2486" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
+The combination of O
+These questions aim to attain more information about the tourists' motivation and purpose of visit.
 
 ## During fieldwork
 ### Contents:
@@ -91,7 +96,38 @@ We shall split into groups of two, Jensen and Honng Kai would be in group one wh
 - Implications of the Research
 
 ### Raw Data
+In the whole survey, we attained a total of 30 responses, and is a large enough sample size to make an effective 
+analysis on public opinion. 
 
+| Question                            | Response Categories/Distribution                                                                                      | Key Metrics         |
+|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------|
+| **What attracted you to Singapore** | Tourism/Sightseeing (11), Business/Work (5), Friends/Family (4), Food/Culture (4), Media/Entertainment (3), Other (3) | -                   |
+| **Purpose of visit**                | Tourism/Leisure (15), Business/Work (6), Visiting Friends/Family (4), Study/Events (2), Other (2)                     | -                   |
+| **Frequency of visits**             | 1 time (18), 2 times (4), 3 times (2), 4 times (2), 5 times (3)                                                       | Average: 1.7 visits |
+| **Main reason for visiting**        | Scenery (13), Shopping (8), Dining (9), Entertainment (8), Special Events (4), Culture/Architecture (3)               | -                   |
+| **Satisfaction (1-5)**              | 5 (21), 4 (6), 3 (2)                                                                                                  | Average: 4.5        |
+| **Crowd levels**                    | Just Right (20), Too Empty (8), Too Crowded (1)                                                                       | -                   |
+| **Visitor vs Tourist**              | Tourist (23), Visitor (6)                                                                                             | -                   |
+| **Yearly income**                   | 0-20k (4), 20k-40k (5), 40k-60k (8), 60k-80k (4), 80k-100k (4), >100k (3), Unspecified (5)                            | -                   |
+| **Enjoy most**                      | Scenery/Views (12), Cleanliness (8), Food/Dining (7), Shopping/Entertainment (6), Architecture (5), Atmosphere (4)    | -                   |
+
+## Data Analysis
+### Question 1 - What attracted you to Singapore?
+<img src = 'Qn1.png' alt = 'The graph for Question 1.'>
+As shown in the graph, Tourism/Sightseeing is the most cited reason, showing that Singapore is very popular amongst
+tourists for its environment and tourist services. The second-highest ranking, Business/Work suggests that Singapore, 
+MBS areas is a very popular location for business activities too, apart from it being a tourist destination. This could
+also be because it is relatively close to the CBD area where many international companies have their offices located. 
+The cultural and social appeal of Singapore is also a significant pull factor that incentivise tourists to come to 
+Singapore. 
+
+From the above observations, we can find out more about their purpose in Singapore, and therefore tell if they are just
+came to MBS specifically for its tourist destinations or just because it is convenient. In this case, the ratio of the 
+amount of people at have chosen tourism/leisure to others (16:14) shows that the people came to MBS specifically for its
+awesome tourist destinations.
+
+### Question 2 - What is your purpose of visit?
+<img src = '', alr = 'The graph for Question 2.'>
 
 -----------------------------------------------------
 Citing:
