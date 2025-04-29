@@ -10,7 +10,7 @@
 - Guiding Questions (5W1H)
 - Constructing the Hypothesis
 - Reviewing Primary Data Collection Methods
-- Sampling Considerations and Crafting the Questionaire
+- Sampling Considerations and Crafting the Questionnaire
 - Selecting the Site for Interviews
 ### Guiding Questions (5W1H)
 1. Who visits MBS? [1] - Iconic design of Marina Bay Sands, Shopping, Scenery, Casino. 

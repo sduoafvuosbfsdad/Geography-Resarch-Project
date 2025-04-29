@@ -2,13 +2,12 @@ import matplotlib.pyplot as plt
 
 # Data from JSON
 data = {
-    "Tourism/Sightseeing": 10,
-    "Business/Work": 5,
-    "Friends/Family": 4,
-    "Food/Culture": 4,
-    "Media/Entertainment": 3,
-    "Other/Unspecified": 3
-}
+          "Tourism/Leisure": 15,
+          "Business/Work": 6,
+          "Visiting Friends/Family": 4,
+          "Study/Events": 2,
+          "Other/Unspecified": 2
+        }
 
 # Prepare data
 categories = list(data.keys())
@@ -22,6 +21,6 @@ plt.pie(values,
         startangle=90,
         wedgeprops={'edgecolor': 'white'})
 
-plt.title('What Attracted You to Singapore', pad=20)
+plt.title('Purpose of Visit', pad=20)
 plt.tight_layout()
-plt.savefig('Qn1.png', dpi=300, bbox_inches='tight')
+plt.savefig('Qn2.png', dpi=300, bbox_inches='tight')
