@@ -4,7 +4,6 @@
 1. During Fieldwork - Making Field Sketches / Taking Photographs
 
 
-
 ## Pre-fieldwork
 ### Contents:
 - Guiding Questions (5W1H)
@@ -63,7 +62,7 @@ Questions:
 10. What do you enjoy most at MBS Promenade?
     Open-Ended Question
 
-The combination of O
+The combination of Open-Ended questions.
 These questions aim to attain more information about the tourists' motivation and purpose of visit.
 
 ## During fieldwork
@@ -112,7 +111,7 @@ analysis on public opinion.
 | **Enjoy most**                      | Scenery/Views (12), Cleanliness (8), Food/Dining (7), Shopping/Entertainment (6), Architecture (5), Atmosphere (4)    | -                   |
 
 ## Data Analysis
-### Question 1 - What attracted you to Singapore?
+### Question 1 - What attracted you to Singapore?   
 <img src = 'Qn1.png' alt = 'The graph for Question 1.'>
 As shown in the graph, Tourism/Sightseeing is the most cited reason, showing that Singapore is very popular amongst
 tourists for its environment and tourist services. The second-highest ranking, Business/Work suggests that Singapore, 
