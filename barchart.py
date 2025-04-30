@@ -1,12 +1,12 @@
 import matplotlib.pyplot as plt
 
 # Sample data
-data = {
-          "1 time": 19,
-          "2 times": 4,
-          "3 times": 2,
-          "4 times": 2,
-          "5 times": 3
+data ={
+          "5": 22,
+          "4": 6,
+          "3": 2,
+          "2": 0,
+          "1": 0
         }
 
 categories = data.keys()
@@ -31,6 +31,6 @@ for bar in bars:
             f'{height}',
             ha='center', va='bottom')
 
-plt.title('Frequency of Visit', pad=20)
+plt.title('Satisfaction levels', pad=20)
 plt.tight_layout()
-plt.savefig('Qn3.png', dpi=300, bbox_inches='tight')
+plt.savefig('Qn5.png', dpi=300, bbox_inches='tight')

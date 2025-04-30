@@ -94,39 +94,62 @@ We shall split into groups of two, Jensen and Honng Kai would be in group one wh
 - Evaluating the Methodology
 - Implications of the Research
 
-### Raw Data
+### Data Collection Overview
 In the whole survey, we attained a total of 30 responses, and is a large enough sample size to make an effective 
 analysis on public opinion. 
-
-| Question                            | Response Categories/Distribution                                                                                      | Key Metrics         |
-|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------|
-| **What attracted you to Singapore** | Tourism/Sightseeing (11), Business/Work (5), Friends/Family (4), Food/Culture (4), Media/Entertainment (3), Other (3) | -                   |
-| **Purpose of visit**                | Tourism/Leisure (15), Business/Work (6), Visiting Friends/Family (4), Study/Events (2), Other (2)                     | -                   |
-| **Frequency of visits**             | 1 time (18), 2 times (4), 3 times (2), 4 times (2), 5 times (3)                                                       | Average: 1.7 visits |
-| **Main reason for visiting**        | Scenery (13), Shopping (8), Dining (9), Entertainment (8), Special Events (4), Culture/Architecture (3)               | -                   |
-| **Satisfaction (1-5)**              | 5 (21), 4 (6), 3 (2)                                                                                                  | Average: 4.5        |
-| **Crowd levels**                    | Just Right (20), Too Empty (8), Too Crowded (1)                                                                       | -                   |
-| **Visitor vs Tourist**              | Tourist (23), Visitor (6)                                                                                             | -                   |
-| **Yearly income**                   | 0-20k (4), 20k-40k (5), 40k-60k (8), 60k-80k (4), 80k-100k (4), >100k (3), Unspecified (5)                            | -                   |
-| **Enjoy most**                      | Scenery/Views (12), Cleanliness (8), Food/Dining (7), Shopping/Entertainment (6), Architecture (5), Atmosphere (4)    | -                   |
 
 ## Data Analysis
 ### Question 1 - What attracted you to Singapore?   
 <img src = 'Qn1.png' alt = 'The graph for Question 1.'>
+Although Question 1 is more open-ended, we observed a trend and that they could be classified and grouped together.
+
 As shown in the graph, Tourism/Sightseeing is the most cited reason, showing that Singapore is very popular amongst
-tourists for its environment and tourist services. The second-highest ranking, Business/Work suggests that Singapore, 
+tourists for its environment and tourist services. The second-highest ranking, Business/ Work, suggests that Singapore, 
 MBS areas is a very popular location for business activities too, apart from it being a tourist destination. This could
 also be because it is relatively close to the CBD area where many international companies have their offices located. 
-The cultural and social appeal of Singapore is also a significant pull factor that incentivise tourists to come to 
+The cultural and social appeal of Singapore is also a significant pull factor that incentivises tourists to come to 
 Singapore. 
 
-From the above observations, we can find out more about their purpose in Singapore, and therefore tell if they are just
+From the above observations, we can find out more about their purpose in Singapore, and therefore tell if they just
 came to MBS specifically for its tourist destinations or just because it is convenient. In this case, the ratio of the 
-amount of people at have chosen tourism/leisure to others (16:14) shows that the people came to MBS specifically for its
-awesome tourist destinations.
+number of people at have chosen tourism/leisure to others (16:14) shows that the people came to MBS specifically for its
+awesome tourist destinations. In one of the responses, it said that one came to Singapore after watching live streams by
+a popular influencer online. This shows that the tourist was very impressed by the Singaporean culture and tourist 
+ activities offered by MBS.
 
 ### Question 2 - What is your purpose of visit?
-<img src = '', alr = 'The graph for Question 2.'>
+<img src = 'Qn2.png' alt = 'The graph for Question 2.'>
+
+With Tourism/Leisure making up half of the responses, this shows that the tourists are mainly drawn to MBS for its 
+entertainment activities. The second-highest ranking was Business/Work, which only makes up 20.7% of the total 
+response, with significantly fewer responses in Study/Events and Visiting Friends/Family. This shows that the tourists
+came to MBS for its entertainment activities, and not for their work.
+
+### Question 3 - How often do you visit MBS Promenade?
+<img src = 'Qn3.png' alt = 'The graph for Question 2.'>
+
+The graph reveals that most visits to MBS occur only once, consistent with tourist behaviour. This aligns with prior 
+findings that tourists are predominantly attracted to MBS for entertainment—a pattern further supported by the low 
+frequency of repeat visits, which suggests minimal engagement beyond one-time leisure activities.
+
+### Question 4 - What is your main reason for visiting?
+<img src = 'Qn4.png' alt = 'The graph for Question 4.'>
+
+After finding out more about what the tourists are attracted by when visiting MBS, we can find out more about which 
+specific sector of the Leisure/Entertainment sector they are drawn to. This graph shows a relatively equal distribution
+of responses, with Scenery, Dining, Shopping, Entertainment and Special Events in their respective rankings from 
+highest to lowest. It comes to no surprise that Scenery ranks first, as MBS has a good global reputation of its view 
+of the Bay, showing Singapore's cityscape. The next highest ranking is the Dining sector, which shows that the food in 
+the MBS area is well recognised by foreign tourists. 
+
+### Question 5 - How satisfied are you with the facilities at MBS Promenade?
+<img src = 'Qn5.png' alt = 'The graph for Question 5.'>
+
+We would also like to find out more about how satisfied the tourists are with the facilities at MBS Promenade. The graph
+shows all the responses in the range of 3 to 5, showing that the tourists are mostly very satisfied with the facilities 
+located in the MBS area. This would tell us more about the experience of the tourists when visiting MBS.
+
+### Question 6 - 
 
 -----------------------------------------------------
 Citing:
