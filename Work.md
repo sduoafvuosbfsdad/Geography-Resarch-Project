@@ -149,7 +149,23 @@ We would also like to find out more about how satisfied the tourists are with th
 shows all the responses in the range of 3 to 5, showing that the tourists are mostly very satisfied with the facilities 
 located in the MBS area. This would tell us more about the experience of the tourists when visiting MBS.
 
-### Question 6 - 
+### Question 6 - Why do you feel this way?
+This question is non-compulsory and more open-ended. Therefore, it is quite hard to categorise the responses based on 
+their opinions. We would be looking into some interesting responses.
+
+" "
+
+### Question 7 - How would you rate the crowd levels?
+_"This is one of Singapore’s more famous landmarks, but it is too overrated"_<br>
+_"Very clean and modern, like being in the future"_<br>
+_"It’s nice but it’s too expensive"_<br>
+A similarity observed in the responses is that the tourists are that they stated that MBS is very clean and popular
+amongst tourists. However, the were also mentions that the place was very expensive and overexaggerated. This shows
+that MBS is not very friendly to the not so privileged tourists and that it might not be meeting the expectations of 
+some tourists, possibly be because of the overly positive portrayl of the place online.
+
+### Question 8 - Are you a visitor or a tourist?
+<img src = 'Qn8.png' alt = 'The graph for Question 8.'>
 
 -----------------------------------------------------
 Citing:
