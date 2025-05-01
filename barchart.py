@@ -2,11 +2,9 @@ import matplotlib.pyplot as plt
 
 # Sample data
 data ={
-          "5": 22,
-          "4": 6,
-          "3": 2,
-          "2": 0,
-          "1": 0
+          "Just Right": 21,
+          "Too Empty": 8,
+          "Too Crowded": 1
         }
 
 categories = data.keys()
@@ -31,6 +29,6 @@ for bar in bars:
             f'{height}',
             ha='center', va='bottom')
 
-plt.title('Satisfaction levels', pad=20)
+plt.title('Crowd Levels', pad=20)
 plt.tight_layout()
-plt.savefig('Qn5.png', dpi=300, bbox_inches='tight')
+plt.savefig('Qn7.png', dpi=300, bbox_inches='tight')
