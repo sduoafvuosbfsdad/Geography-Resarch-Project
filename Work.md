@@ -1,16 +1,12 @@
 # Geography Research Project
 
-## To-Be-Done Segments!!!!!!!!!!
-1. During Fieldwork - Making Field Sketches / Taking Photographs
-
-
 ## Pre-fieldwork
 ### Contents:
 - Guiding Questions (5W1H)
+- Background Research of MBS Promenade
 - Constructing the Hypothesis
-- Reviewing Primary Data Collection Methods
-- Sampling Considerations and Crafting the Questionnaire
-- Selecting the Site for Interviews
+- Crafting Primary Research Questions
+
 ### Guiding Questions (5W1H)
 1. Who visits MBS? [1] - Iconic design of Marina Bay Sands, Shopping, Scenery, Casino. 
 Usually more tourists than locals
@@ -68,9 +64,8 @@ These questions aim to attain more information about the tourists' motivation an
 ## During fieldwork
 ### Contents:
 - Selecting the Site for Interviews
-- Safety Concerns
+- Risk & Limitations Assessment
 - Making Field Sketches and/or Taking Photographs
-- Conducting the Interviews
 ### Site and Manpower Allocation
 Possible Sites for Interviews:
 - Entrance of Marina Bay Sands
@@ -93,11 +88,11 @@ We shall split into groups of two, Jensen and Honng Kai would be in group one wh
 
 ## Post-fieldwork
 ### Contents:
-- Representing and Analysing the Data Collected
+- Data Collection Overview
+- Data Analysis
 - Concluding the Hypothesis
 - Evaluating the Methodology
 - Implications of the Research
-
 ### Data Collection Overview
 In the whole survey, we attained a total of 30 responses, and is a large enough sample size to make an effective 
 analysis on public opinion. 
@@ -189,13 +184,7 @@ previous responses. We found that MBS is not very affordable and maybe that was 
 <img src= 'Qn10.png' alt = 'The graph for Question 10.'>
 Well as the last question of our questionnaire, we observed a pattern too on the valid responses.
 So I classified them to make them easier to analyse. The people that visited MBS was most satisfied with the scenery 
-and cleanliness which resonates with the conclusions made earlier. 
-
-## Post-fieldwork 
-### Contents:
-- Concluding the Hypothesis
-- Evaluating the Methodology
-- Implications of the Research
+and cleanliness which resonates with the conclusions made earlier.
 
 ### Concluding the Hypothesis
 According to our results and after our analysis, more than ⅓ of the visitors who visited MBS Promenade stated that the main reason for their visit is sightseeing of attractions, thus our hypothesis is somewhat accurate. I think more data would need to be collected until the majority is reached. Although this reason has the most respondents, I think it would need to be majority for our group to conclude that visitors primary reason for visiting MBS Promenade is for sightseeing of attractions.
