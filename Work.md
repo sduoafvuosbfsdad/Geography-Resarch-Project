@@ -87,6 +87,10 @@ We shall split into groups of two, Jensen and Honng Kai would be in group one wh
 | Time Constrains        | Harder to conduct in-depth surveys                   |
 | Bias in responses      | Different perceptions, affecting consistency of data |
 
+### Field Sketches & Photographs
+<img src = 'mbs_1.png'>
+<img src = 'mbs_2.png'> 
+
 ## Post-fieldwork
 ### Contents:
 - Representing and Analysing the Data Collected
@@ -153,19 +157,54 @@ located in the MBS area. This would tell us more about the experience of the tou
 This question is non-compulsory and more open-ended. Therefore, it is quite hard to categorise the responses based on 
 their opinions. We would be looking into some interesting responses.
 
-" "
-
-### Question 7 - How would you rate the crowd levels?
 _"This is one of Singapore’s more famous landmarks, but it is too overrated"_<br>
 _"Very clean and modern, like being in the future"_<br>
 _"It’s nice but it’s too expensive"_<br>
 A similarity observed in the responses is that the tourists are that they stated that MBS is very clean and popular
-amongst tourists. However, the were also mentions that the place was very expensive and overexaggerated. This shows
+amongst tourists. However, the were also mentions that the place was very expensive and over exaggerated. This shows
 that MBS is not very friendly to the not so privileged tourists and that it might not be meeting the expectations of 
-some tourists, possibly be because of the overly positive portrayl of the place online.
+some tourists, possibly be because of the overly positive portrayal of the place online.
+
+### Question 7 - How would you rate the crowd levels?
+<img src = 'Qn7.png' alt = 'The graph for Question 7.'>
+Learning more about the croud levels in MBS would tell us more about the satisfaction about the comfortability of those
+that visited MBS. We can also get an idea of their expectations on MBS. According to the graph, most people choose that
+it was just right and rather spacious while only 9 choose that they were not satisfied. Of which, 8 choose too empty
+this maybe because of the online videos and advertisement showing the crowds of people in public holidays, making people
+think that it is always like this. Overall, it shows that people are satisfied with the amount of people.
 
 ### Question 8 - Are you a visitor or a tourist?
 <img src = 'Qn8.png' alt = 'The graph for Question 8.'>
+We want to know whether those who came are local or not. So that we could figure out if the place would be a more 
+popular destination for foreigners or locals. According to the graph, they were mostly tourists.
+
+### Question 9 - What is your yearly income level?
+<img src= 'Qn9.png' alt = 'The graph for Question 9.'>
+We also want to know more about the income levels of those people that come to MBS.
+As shown in one of the above questions, someone did mention that MBS was rather expensive and not very affordable.
+Therefore, we wanted to see if MBS was considered too expensive for many by comparing their responses with their 
+previous responses. We found that MBS is not very affordable and maybe that was why noone really visited twice.
+
+### Question 10 - What do you enjoy most at MBS Promenade?
+<img src= 'Qn10.png' alt = 'The graph for Question 10.'>
+Well as the last question of our questionnaire, we observed a pattern too on the valid responses.
+So I classified them to make them easier to analyse. The people that visited MBS was most satisfied with the scenery 
+and cleanliness which resonates with the conclusions made earlier. 
+
+## Post-fieldwork 
+### Contents:
+- Concluding the Hypothesis
+- Evaluating the Methodology
+- Implications of the Research
+
+### Concluding the Hypothesis
+According to our results and after our analysis, more than ⅓ of the visitors who visited MBS Promenade stated that the main reason for their visit is sightseeing of attractions, thus our hypothesis is somewhat accurate. I think more data would need to be collected until the majority is reached. Although this reason has the most respondents, I think it would need to be majority for our group to conclude that visitors primary reason for visiting MBS Promenade is for sightseeing of attractions.
+
+### Evaluating the Methodology
+I think our data has reliability issues, as we did not have enough responses to properly conclude. The responses on that day may not represent the responses of other tourists, making it less accurate and less reliable. I think the data would be more reliable if there is a greater number of interview sites and interviews completed over a larger number of dates. Doing this, we can get more responses, allowing us to analyse more responses, making our data more reliable and accurate.
+
+### Implications of the Research
+Not all tourists come to MBS Promenade for the attractions. Some people went there for business, friends and events rather than attractions. This implies that as a country, Singapore isn’t just a tourist attraction, but a place for networking, job or study opportunities, and just a place for anyone and everyone to enjoy. The research shows that MBS Promenade is a place not just for fun, but also for other events. 
 
 -----------------------------------------------------
 Citing:
